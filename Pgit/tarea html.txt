@@ -1,0 +1,1 @@
+crar las clases para aplicar los estilos en css y hacer la pagina mas bonita 
